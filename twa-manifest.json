@@ -1,0 +1,51 @@
+{
+  "packageId": "id.ajbku.app",
+  "host": "ajbku.id",
+  "name": "AJBku",
+  "launcherName": "AJBku",
+  "display": "standalone",
+  "themeColor": "#106466",
+  "themeColorDark": "#000000",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#106466",
+  "enableNotifications": true,
+  "startUrl": "/",
+  "iconUrl": "https://ajbku.id/icons/icon-512.png",
+  "maskableIconUrl": "https://ajbku.id/icons/icon-maskable-512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "C:\\work\\lokal\\pakhamka\\ajbku\\keys\\ajbku-upload.keystore",
+    "alias": "ajbku-upload"
+  },
+  "appVersionName": "1.0.0",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://ajbku.id/manifest.webmanifest",
+  "fallbackType": "customtabs",
+  "features": {
+    "locationDelegation": {
+      "enabled": true
+    }
+  },
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://ajbku.id/",
+  "minSdkVersion": 24,
+  "orientation": "portrait-primary",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "protocolHandlers": [],
+  "fileHandlers": [],
+  "launchHandlerClientMode": "",
+  "displayOverride": [],
+  "appVersion": "1"
+}

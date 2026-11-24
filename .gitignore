@@ -1,0 +1,13 @@
+*.keystore
+*.jks
+*.p12
+*.aab
+*.apk
+*.idsig
+local.properties
+.gradle/
+.idea/
+build/
+app/build/
+*.bak
+android-inventory.sh
